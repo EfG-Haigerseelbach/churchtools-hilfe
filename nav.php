@@ -30,7 +30,7 @@
             </li>
             <li>
                 <a href="https://efghaigerseelbach.church.tools" class="nav-link px-sm-0 px-2">
-                    <img src="/resources/CT Logo Color.svg" width="16" alt="ChurchTools Logo" class="contacticon"><span class="ms-1 d-none d-sm-inline">ChurchTools</span></a>
+                    <img src="/resources/CT Logo Color.svg" width="16" alt="ChurchTools Logo" class="contacticon" style="margin-bottom: 0.2em;"><span class="ms-1 d-none d-sm-inline">ChurchTools</span></a>
             </li>
             <li>
                 <a href="https://efghaigerseelbach.de" class="nav-link px-sm-0 px-2">
