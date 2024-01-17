@@ -65,11 +65,10 @@
           url: url,
         }
         navigator.share(shareData)
-          .then(() =>
-            resultPara.textContent = 'Link wurde geteilt'
+          .then(() => { }
           )
           .catch((e) =>
-            resultPara.textContent = 'Fehler: ' + e
+            console.log(e)
           );
       }
   </script>
