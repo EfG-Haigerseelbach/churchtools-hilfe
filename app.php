@@ -85,8 +85,6 @@
                                     </div>
                                 </div>
                             </div>
-                            Hat die Anmeldung nicht geklappt? Wende dich bitte per E-Mail an <a href="mailto:churchtools@efghaigerseelbach.de">churchtools@efghaigerseelbach.de</a> oder sprich einen Mitarbeiter nach einer unserer Veranstaltungen persönlich an.
-
 
                             <h2 data-toc-text="Email & Passwort Option 2">Alternative Anmeldung mittels Email & Passwort (Option 2)</h2>
                             <p class="lead">
@@ -99,7 +97,7 @@
                                         <i class="bi bi-1-circle"></i> Öffne <strong>an deinem Smartphone</strong> mit einem Browser deiner Wahl die Webseite <a href="https://efghaigerseelbach.church.tools">https://efghaigerseelbach.church.tools</a>.
                                         <i class="bi bi-2-circle"></i> Gib deine E-Mailadresse ein, die du in ChurchTools hinterlegt hast. Hast du mehrere E-Mailadressen?
                                         Dann achte darauf die Korrekte zu verwenden. <i class="bi bi-3-circle"></i> Gib dein Passwort ein. Hast du dein Passwort vergessen,
-                                        dann musst du dieses zunächst <a href="#">zurücksetzten</a>. <i class="bi bi-3-circle"></i> Klick dann auf <span style="font-style: italic;">Login</span>.
+                                        dann musst du dieses zunächst <a href="#">zurücksetzten</a>. <i class="bi bi-4-circle"></i> Klick dann auf <span style="font-style: italic;">Login</span>.
                                         <br>
                                         <figure class="figure">
                                             <img src="/resources/app - anmeldung - name und pwd option 2 - 1_.jpg" style="margin: 0.5em; width: 100%; max-width: 300px; height: auto;">
@@ -187,6 +185,11 @@
                                     </div>
                                 </div>
                             </div>
+
+                            <h2>Anmeldung funktioniert nicht</h2>
+                            <p>
+                                Hat die Anmeldung nicht geklappt? Wende dich bitte per E-Mail an <a href="mailto:churchtools@efghaigerseelbach.de">churchtools@efghaigerseelbach.de</a> oder sprich einen Mitarbeiter nach einer unserer Veranstaltungen persönlich an.
+                            </p>
                         </div>
                     </div>
 
