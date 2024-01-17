@@ -54,7 +54,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <h2 data-toc-text="Email & Passwort Option 1">Anmeldung mit Emailadresse & Passwort (Option 1)</h2>
+
+                            <h2 data-toc-text="Email & Passwort Option 1">Anmeldung mit Emailadresse & Passwort (Option 1)
+                                <i class="bi bi-share" data-share-title="ChurchTools-App Einrichtung mit Email und Passwort" data-share-url="/app.php#anmeldung-mit-emailadresse-passwort-option-1"></i>
+                            </h2>
                             <p class="lead">
                                 In 7 Schritten kannst du die Anmeldung in der ChurchTools-App mittels Emailadresse und Passwort durchführen. Alles was du benötigst ist dein Smartphone.
                             </p>
@@ -93,7 +96,9 @@
                                 </div>
                             </div>
 
-                            <h2 data-toc-text="Email & Passwort Option 2">Alternative Anmeldung mittels Email & Passwort (Option 2)</h2>
+                            <h2 data-toc-text="Email & Passwort Option 2">Alternative Anmeldung mittels Email & Passwort (Option 2)
+                                <i class="bi bi-share" data-share-title="ChurchTools-App Einrichtung mit Email und Passwort (Option 2)" data-share-url="/app.php#alternative-anmeldung-mittels-email-passwort-option-2"></i>
+                            </h2>
                             <p class="lead">
                                 In 8 Schritten kannst du die Anmeldung mit einem Browser auf deinem Smartphone durchführen. Du benötigst also nur dein Smartphone. Diese Option unterscheidet sich
                                 nur unwesentlich von Option 1.
@@ -136,7 +141,9 @@
                                 </div>
                             </div>
 
-                            <h2 data-toc-text="QR-Code + PC">Anmeldung mittels QR-Code und einem PC</h2>
+                            <h2 data-toc-text="QR-Code + PC">Anmeldung mittels QR-Code und einem PC
+                                <i class="bi bi-share" data-share-title="ChurchTools-App Einrichtung mit QR-Code und PC" data-share-url="/app.php#anmeldung-mittels-qr-code-und-einem-pc"></i>
+                            </h2>
                             <p class="lead">
                                 In 8 Schritten kannst du die Anmeldung in der ChurchTools-App mittels QR-Code und einem PC durchführen. Du benötigst also dein Smartphone <strong>und</strong> einen PC.
                             </p>
