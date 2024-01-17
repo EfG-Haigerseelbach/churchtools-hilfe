@@ -4,7 +4,8 @@
             <li class="nav-item">
                 <a href="/index.php" class="nav-link px-sm-0 px-2">
                     <img src="https://efghaigerseelbach.church.tools/images/7312/69f917bd1e1978fd6d2ca9386888578b0b6e34eda8cb4ba6dce053bacc2130a1?fit=contain" alt="Logo" height="25" width="25" style="object-fit: contain; border-radius: 3px">
-                    ChurchTools Hilfe
+                    <span class="title-long">ChurchTools Hilfe</span>
+                    <span class="title-medium">Hilfe</span>
                 </a>
             </li>
             <li>
@@ -37,7 +38,7 @@
             </li>
         </ul>
         <hr>
-        <div class="mb-4" style="color: #ced4da;">© EfG Haigerseelbach 2024</div>
+        <div class="mb-4 copyright" style="color: #ced4da;">© EfG Haigerseelbach 2024</div>
         
                 
     </div>
