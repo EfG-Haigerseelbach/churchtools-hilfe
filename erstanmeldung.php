@@ -65,11 +65,8 @@
                                 <a href="https://efghaigerseelbach.church.tools">efghaigerseelbach.church.tools</a>. Für den alltäglichen Gebrauch und den erhalt von
                                 (Chat-) Benachrichtigungen ist allerdings die Verwendung der ChurchTools-App hilfreich. Diese kannst du dir gerne ebenfalls installieren.
                                 Du findest sie im Play-/App-Store. Weitere Hilfe für die Einrichtung der App findest du <a href="/app.php">hier</a>.
-
-                                <!-- Für die einmalige Einrichtung der App schau dir bitte die Anleitung auf https://hilfe.efghaigerseelbach.de/ an. Dort findest du die Anleitung nach Klick auf den Punkt "Anmeldung in der ChurchTools-App mit deiner Emailadresse und deinem Passwort". 
-              -->
-
                             </p>
+                            
                             <h2 data-toc-skip>QR-Code zu dieser Seite</h2>
                             <div class="container mb-5">
                                 <img src="/resources/qr-code erstanmeldung.svg" alt="Logo" height="300" width="300" style="object-fit: contain;">

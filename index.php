@@ -62,9 +62,9 @@
                                                 <h5 class="card-title">Erstanmeldung</h5>
                                                 <p class="card-text">Die Erstanmeldung muss einmalig von dir durchgeführt werden.</p>
                                                 <figure>
-                                                <img src="/resources/qr-code erstanmeldung.svg" alt="Logo" height="100" width="100" style="object-fit: contain;">
+                                                    <img src="/resources/qr-code erstanmeldung.svg" alt="Logo" height="100" width="100" style="object-fit: contain;">
                                                 </figure>
-                                                <a href="/erstanmeldung.php" class="btn btn-primary">Weitere Hilfe</a>
+                                                <a href="/erstanmeldung.php" class="btn btn-primary">Weitere Hilfe <i class="bi bi-arrow-right"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -89,18 +89,24 @@
                                             <div class="card-body">
                                                 <h5 class="card-title">ChurchTools-App Installation</h5>
                                                 <p class="card-text">Für den alltäglichen Gebrauch und den erhalt von (Chat-) Benachrichtigungen ist die Verwendung der ChurchTools-App hilfreich.</p>
-                                                <a href="/app.php" class="btn btn-primary">Weitere Hilfe</a>
+                                                <figure>
+                                                    <img src="/resources/qr-code app.svg" alt="Logo" height="100" width="100" style="object-fit: contain;">
+                                                </figure>
+                                                <a href="/app.php" class="btn btn-primary">Weitere Hilfe <i class="bi bi-arrow-right"></i></a>
                                             </div>
                                         </div>
                                     </div>
 
                                     <div class="col-12 col-lg-6 col-xl-4 mb-4">
                                         <div class="card" style="width: 18rem;">
-                                            <img src="/resources/einwilligung%20-%20info-banner.jpg" class="card-img-top" alt="...">
+                                            <img src="/resources/einwilligung - card.jpg" class="card-img-top" alt="...">
                                             <div class="card-body">
                                                 <h5 class="card-title">Einwilligung</h5>
                                                 <p class="card-text">Datenschutz und Transparenz sind uns wichtig. Insofern dürfen wir deine Daten ohne deine Zustimmung für Aufgaben und Tätigkeiten in der Gemeinde nicht nutzen.</p>
-                                                <a href="/einwilligung.php" class="btn btn-primary">Weitere Hilfe</a>
+                                                <figure>
+                                                    <img src="/resources/qr-code einwilligung.svg" alt="Logo" height="100" width="100" style="object-fit: contain;">
+                                                </figure>
+                                                <a href="/einwilligung.php" class="btn btn-primary">Weitere Hilfe <i class="bi bi-arrow-right"></i></a>
                                             </div>
                                         </div>
                                     </div>
