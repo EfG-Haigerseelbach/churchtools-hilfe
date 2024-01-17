@@ -1,2 +1,2 @@
 # churchtools-hilfe
-Hilfreiche Informationen für ChurchTools-Anwender
+Hilfestellung für ChurchTools-Anwender
