@@ -33,7 +33,7 @@
                                 Die ChurchTools-App kann über den Apple App-Store oder den Google Play-Store installiert werden.
                             </p>
                             <div class="container text-center">
-                                <div class="row justify-content-md-center">
+                                <div class="row justify-content-md-center mb-4">
                                     <div class="col col-xl-2">
                                         <a class="btn btn-dark" href="https://itunes.apple.com/de/app/id1413263051" role="button">
                                             <i class="bi bi-apple"></i> ChurchTools-App im App-Store
