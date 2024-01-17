@@ -57,7 +57,7 @@
                                 <img src="/resources/einwilligung - einwilligung mit kindern.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
                             </figure>
                             </p>
-                            <h2>Einwilligung mit Kindern &auml;lter als 16 Jahre</h2>
+                            <h2>Einwilligung mit Kindern > 16 Jahre</h2>
                             <p>
                                 Wenn deine Kinder ebenfalls in ChurchTools hinterlegt sind, werden diese angezeigt. Personen ab 16 Jahren müssen diese ihre Einwilligung
                                 in ChurchTools <strong>selbst</strong> abgeben. Wie im nachfolgenden Bildschirmausschnitt gezeigt, kann nur die eigene Einwilligung
