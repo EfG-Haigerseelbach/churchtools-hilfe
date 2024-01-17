@@ -50,6 +50,30 @@
 
   <!--<link rel="stylesheet" href="/resources/docs.css">-->
 
+  <script>
+      $(document).ready(function() {
+        $('.bi-share').click(function(e) {
+          var title = $(this).data('share-title');
+          var url = window.location.origin+$(this).data('share-url');
+          share(title, url);
+        })
+      });
+      function share(title, url) {
+        let shareData = {
+          title: title,
+          //text: text,
+          url: url,
+        }
+        navigator.share(shareData)
+          .then(() =>
+            resultPara.textContent = 'Link wurde geteilt'
+          )
+          .catch((e) =>
+            resultPara.textContent = 'Fehler: ' + e
+          );
+      }
+  </script>
+
   <style>
     /*.auto-resizable-iframe {
       max-width: 560px;

@@ -20,10 +20,10 @@
                 <a href="/app.php" class="nav-link px-sm-0 px-2">
                     <i class="bi bi-phone"></i><span class="ms-1 d-none d-sm-inline">App</span></a>
             </li>
-            <!--<li>
-            <a href="#" class="nav-link px-sm-0 px-2">
-            <i class="bi bi-key"></i><span class="ms-1 d-none d-sm-inline">Passwort</span></a>
-        </li>-->
+            <li>
+                <a href="/passwort.php" class="nav-link px-sm-0 px-2">
+                    <i class="bi bi-key"></i><span class="ms-1 d-none d-sm-inline">Passwort</span></a>
+            </li>
             <li>
                 <a href="/einwilligung.php" class="nav-link px-sm-0 px-2">
                     <i class="bi bi-shield-shaded"></i><span class="ms-1 d-none d-sm-inline">Einwilligung</span></a>
@@ -39,7 +39,7 @@
         </ul>
         <hr>
         <div class="mb-4 copyright" style="color: #ced4da;">© EfG Haigerseelbach 2024</div>
-        
-                
+
+
     </div>
 </div>

@@ -35,7 +35,7 @@
                                 </ul>
                             </div>
                             </div>
-                            <h2>Installation</h2>
+                            <h2>Installation <i class="bi bi-share" data-share-title="ChurchTools-App Installation" data-share-url="/app.php#installation"></i></h2>
                             <p>
                                 Die ChurchTools-App kann über den Apple App-Store oder den Google Play-Store installiert werden.
                             </p>
