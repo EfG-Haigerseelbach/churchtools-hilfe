@@ -41,7 +41,7 @@
                             <p>
                                 Nachfolgend ist exemplarisch eine Einladungsemail gezeigt. <a id="erstanmeldung-2"><strong><i class="bi bi-2-circle"></i> Klicke auf den blau hinterlegten Link
                                         <span style="font-style: italic;">ChurchTools-Zugang einrichten</span></strong></a>. Bitte beachte, dass der Link eine begrenzte Gültigkeit hat und zeitnah verwendet
-                                werden muss. Ist die Gültigkeit abgelaufen musst du erneut eingeladen werden.
+                                werden muss. Ist die Gültigkeit abgelaufen, musst du erneut eingeladen werden.
                                 <br>
                             <figure class="figure">
                                 <img src="/resources/einladungsemail.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
@@ -66,7 +66,7 @@
                                 (Chat-) Benachrichtigungen ist allerdings die Verwendung der ChurchTools-App hilfreich. Diese kannst du dir gerne ebenfalls installieren.
                                 Du findest sie im Play-/App-Store. Weitere Hilfe für die Einrichtung der App findest du <a href="/app.php">hier</a>.
                             </p>
-                            
+
                             <h2 data-toc-skip>QR-Code zu dieser Seite</h2>
                             <div class="container mb-5">
                                 <img src="/resources/qr-code erstanmeldung.svg" alt="Logo" height="300" width="300" style="object-fit: contain;">
