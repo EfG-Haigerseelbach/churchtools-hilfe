@@ -64,7 +64,7 @@
                                 ChurchTools kann über einen Browser oder die ChurchTools-App bedient werden. Für die Verwendung über einen Browser öffne einfach die Seite
                                 <a href="https://efghaigerseelbach.church.tools">efghaigerseelbach.church.tools</a>. Für den alltäglichen Gebrauch und den erhalt von
                                 (Chat-) Benachrichtigungen ist allerdings die Verwendung der ChurchTools-App hilfreich. Diese kannst du dir gerne ebenfalls installieren.
-                                Du findest sie im Play-/App-Store. Weitere Hilfe für die Einrichtung der App findest du <b>hier</b>.
+                                Du findest sie im Play-/App-Store. Weitere Hilfe für die Einrichtung der App findest du <a href="/app.php">hier</a>.
 
                                 <!-- Für die einmalige Einrichtung der App schau dir bitte die Anleitung auf https://hilfe.efghaigerseelbach.de/ an. Dort findest du die Anleitung nach Klick auf den Punkt "Anmeldung in der ChurchTools-App mit deiner Emailadresse und deinem Passwort". 
               -->
