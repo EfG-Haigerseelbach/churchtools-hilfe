@@ -83,7 +83,7 @@
                                         </div>
                                     </div>-->
 
-                                    <div class="col-12 col-lg-6 col-xl-4">
+                                    <div class="col-12 col-lg-6 col-xl-4 mb-4">
                                         <div class="card" style="width: 18rem;">
                                             <img src="/resources/app.jpg" class="card-img-top" style="object-fit: cover; height: 100%;" alt="...">
                                             <div class="card-body">
@@ -94,7 +94,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-12 col-lg-6 col-xl-4">
+                                    <div class="col-12 col-lg-6 col-xl-4 mb-4">
                                         <div class="card" style="width: 18rem;">
                                             <img src="/resources/einwilligung%20-%20info-banner.jpg" class="card-img-top" alt="...">
                                             <div class="card-body">
