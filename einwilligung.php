@@ -20,15 +20,15 @@
                             </p>
                             <h2>Anmeldung</h2>
                             <p>
-                                <strong><i class="bi bi-1-circle"></i> Melde dich an</strong> mit deiner Email-Adresse oder deinem Benutzernamen und deinem persönlichen Passwort auf
-                                <a href="https://efghaigerseelbach.church.tools">https://efghaigerseelbach.church.tools</a>.
+                                <i class="bi bi-1-circle"></i> Melde dich mit deiner Email-Adresse oder deinem Benutzernamen und deinem persönlichen Passwort auf
+                                <a href="https://efghaigerseelbach.church.tools">https://efghaigerseelbach.church.tools</a> an.
                                 <br>
                             <figure class="figure">
                                 <img src="/resources/einwilligung - startseite.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
                             </figure>
                             <br>
                             Nach der Anmeldung wird im oberen Bereich der Webseite die Information „Einwilligungserklärung erforderlich“ angezeigt.
-                            <strong><i class="bi bi-2-circle"></i> Klicke auf „Einwilligungserklärung aufrufen“</strong>.
+                            <i class="bi bi-2-circle"></i> Klicke auf <span style="font-style: italic;">Einwilligungserklärung aufrufen</span>.
                             <br>
                             <figure class="figure">
                                 <img src="/resources/einwilligung - info-banner.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
@@ -58,7 +58,7 @@
                             </figure>
                             </p>
                             <h2>Einwilligung mit Kindern > 16 Jahre</h2>
-                            <p>
+                            <p class="mb-5">
                                 Wenn deine Kinder ebenfalls in ChurchTools hinterlegt sind, werden diese angezeigt. Personen ab 16 Jahren müssen diese ihre Einwilligung
                                 in ChurchTools <strong>selbst</strong> abgeben. Wie im nachfolgenden Bildschirmausschnitt gezeigt, kann nur die eigene Einwilligung
                                 abgegeben werden, nicht jedoch für das Kind (hier Max Huber, Alter 37 Jahre) 😉.<br>

@@ -39,7 +39,7 @@
                                 oder sprich einen Mitarbeiter nach einer unserer Veranstaltungen persönlich an.
                             </p>
                             <p>
-                                Nachfolgend ist exemplarisch eine Einladungsemail gezeigt. <a id="erstanmeldung-2"><strong>② Klicke auf den blau hinterlegten Link
+                                Nachfolgend ist exemplarisch eine Einladungsemail gezeigt. <a id="erstanmeldung-2"><strong><i class="bi bi-2-circle"></i> Klicke auf den blau hinterlegten Link
                                         <span style="font-style: italic;">ChurchTools-Zugang einrichten</span></strong></a>. Bitte beachte, dass der Link eine begrenzte Gültigkeit hat und zeitnah verwendet
                                 werden muss. Ist die Gültigkeit abgelaufen musst du erneut eingeladen werden.
                                 <br>
@@ -48,19 +48,19 @@
                             </figure>
 
                             <br>
-                            Du wirst zu ChurchTools weitergeleitet und es wird der Dialog Passwort einrichten angezeigt. <a id="erstanmeldung-3"><strong>③ Trage dein persönliches Passwort ein</strong></a>. Es muss den genannten
-                            Kriterien entsprechen (mindestens 8 Zeichen, mindestens 1 Ziffer, ...). <a id="erstanmeldung-4"><strong>④ Klicke dann auf Passwort ändern</strong></a>. Speichere dein Passwort an einem sicheren Ort.
+                            Du wirst zu ChurchTools weitergeleitet und es wird der Dialog Passwort einrichten angezeigt. <a id="erstanmeldung-3"><strong><i class="bi bi-3-circle"></i> Trage dein persönliches Passwort ein</strong></a>. Es muss den genannten
+                            Kriterien entsprechen (mindestens 8 Zeichen, mindestens 1 Ziffer, ...). <a id="erstanmeldung-4"><strong><i class="bi bi-4-circle"></i> Klicke dann auf Passwort ändern</strong></a>. Speichere dein Passwort an einem sicheren Ort.
                             <br>
                             <img src="/resources/passwort_ändern_dialog.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
                             </p>
                             <h2>Einwilligung</h2>
                             <p>
-                                Sobald du dich zum ersten Mal angemeldet hast, bitten wir dich, die <a id="erstanmeldung-5"><strong>⑤ Einwilligung zur Speicherung und Nutzung deiner Daten zu geben</strong></a>. Datenschutz und
+                                Sobald du dich zum ersten Mal angemeldet hast, bitten wir dich, die <a id="erstanmeldung-5"><strong><i class="bi bi-5-circle"></i> Einwilligung zur Speicherung und Nutzung deiner Daten zu geben</strong></a>. Datenschutz und
                                 Transparenz sind uns wichtig. Insofern dürfen wir deine Daten ohne deine Zustimmung für Aufgaben und Tätigkeiten in der Gemeinde nicht nutzen.
                                 Weitere Hilfe zur Abgabe deiner Einwilligung findest du <a href="/einwilligung.php">hier</a>.
                             </p>
                             <h2>ChurchTools Webseite und App</h2>
-                            <p>
+                            <p class="mb-5">
                                 ChurchTools kann über einen Browser oder die ChurchTools-App bedient werden. Für die Verwendung über einen Browser öffne einfach die Seite
                                 <a href="https://efghaigerseelbach.church.tools">efghaigerseelbach.church.tools</a>. Für den alltäglichen Gebrauch und den erhalt von
                                 (Chat-) Benachrichtigungen ist allerdings die Verwendung der ChurchTools-App hilfreich. Diese kannst du dir gerne ebenfalls installieren.
