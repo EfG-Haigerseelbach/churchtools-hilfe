@@ -25,13 +25,13 @@
                                     Inhaltsverzeichnis <i class="bi bi-chevron-expand"></i>
                                 </button>
                             </p>
-                            <div class="collapse mb-4" id="toc-collapse" style="line-height: 21px; font-size: 14px; text-decoration-color rgba(33, 37, 41, 0.75); padding: 1.25rem 1.25rem 1.25rem 1rem; background-color: #f8f9fa; border: 1px solid var(--bs-border-color); border-radius: var(--bs-border-radius);">
+                            <div class="collapse mb-4" id="toc-collapse" style="line-height: 21px; font-size: 14px; text-decoration-color: rgba(33, 37, 41, 0.75); padding: 1.25rem 1.25rem 1.25rem 1rem; background-color: #f8f9fa; border: 1px solid var(--bs-border-color); border-radius: var(--bs-border-radius);">
                                 <ul class="list-unstyled mb-0">
                                     <li><a href="#installation">Installation</a></li>
-                                    <li><a href="#installation">Anmeldung mit Emailadresse & Passwort (Option 1)</a></li>
-                                    <li><a href="#installation">Alternative Anmeldung mittels Email & Passwort (Option 2)</a></li>
-                                    <li><a href="#installation">Anmeldung mittels QR-Code und einem PC</a></li>
-                                    <li><a href="#installation">Anmeldung funktioniert nicht</a></li>
+                                    <li><a href="#anmeldung-mit-emailadresse-passwort-option-1">Anmeldung mit Emailadresse & Passwort (Option 1)</a></li>
+                                    <li><a href="#alternative-anmeldung-mittels-email-passwort-option-2">Alternative Anmeldung mittels Email & Passwort (Option 2)</a></li>
+                                    <li><a href="#anmeldung-mittels-qr-code-und-einem-pc">Anmeldung mittels QR-Code und einem PC</a></li>
+                                    <li><a href="#anmeldung-funktioniert-nicht">Anmeldung funktioniert nicht</a></li>
                                 </ul>
                             </div>
                             </div>
