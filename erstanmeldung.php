@@ -11,7 +11,7 @@
 
             <div class="col d-flex flex-column h-sm-100">
                 <main class="row overflow-auto">
-                    <div class="col-12 col-xl-9 pt-4">
+                    <div class="col-12 col-xxl-9 pt-4">
                         <div class="container">
                             <h1>Erstanmeldung</h1>
                             <p class="lead">
@@ -73,7 +73,7 @@
                         </div>
                     </div>
 
-                    <div class="col-3">
+                    <div class="col-3" id="toc-outer">
                         <div class="sticky-top" style="top: 3em;">
                             Inhalt:
                             <hr>
