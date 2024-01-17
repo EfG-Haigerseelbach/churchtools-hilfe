@@ -22,12 +22,12 @@
                             </p>
                             <div class=" text-center">
                                 <a class="btn btn-dark m-2" href="https://efghaigerseelbach.de" role="button">
-                                            <i class="bi bi-globe"></i> Webseite der EfG Haigerseelbach
-                                        </a>
-                                    
-                                        <a class="btn btn-dark" href="https://efghaigerseelbach.church.tools" role="button">
-                                            <img src="/resources/CT Logo Color.svg" width="16" alt="ChurchTools Logo" class="contacticon"> ChurchTools-Webseite
-                                        </a>
+                                    <i class="bi bi-globe"></i> Webseite der EfG Haigerseelbach
+                                </a>
+
+                                <a class="btn btn-dark" href="https://efghaigerseelbach.church.tools" role="button">
+                                    <img src="/resources/CT Logo Color.svg" width="16" alt="ChurchTools Logo" class="contacticon"> ChurchTools-Webseite
+                                </a>
                             </div>
                             <!--<div class="container text-center">
                                 <div class="row justify-content-md-center">
@@ -44,7 +44,7 @@
                                 </div>
                             </div>-->
 
-                            <h2>Themen</h2>
+                            <h2 class="mt-5">Themen</h2>
                             <p class="lead">
                                 Für folgende Themen findest du auf dieser Seite Hilfestellung. Diese Themen findest du auch im Menü.
                             </p>
@@ -113,7 +113,7 @@
                                 </div>
                             </div>
 
-                            
+
                         </div>
                     </div>
 
