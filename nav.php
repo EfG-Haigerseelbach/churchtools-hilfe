@@ -38,8 +38,7 @@
             </li>
         </ul>
         <hr>
-        <div class="mb-4 copyright" style="color: #ced4da;">© EfG Haigerseelbach 2024</div>
-
-
+        <div class="mb-4 copyright" style="color: #ced4da;">© EfG Haigerseelbach 2024 
+        | <a href="https://efghaigerseelbach.de/impressum/" style="color: #ced4da; text-decoration: none;">Impressum</a></div>
     </div>
 </div>
