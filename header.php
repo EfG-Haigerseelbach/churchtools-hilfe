@@ -135,10 +135,16 @@
       #toc-outer {
         display: none;
       }
+      #toc-as-collapse {
+        display: block;
+      }
     }
     @media (min-width: 1398px) {
       #toc-outer {
         display: block;
+      }
+      #toc-as-collapse {
+        display: none;
       }
     }
   </style>

@@ -19,15 +19,22 @@
                                 ChurchTools-App hilfreich. Sie bietet außerdem einen Überblick über anstehende Veranstaltungen sowie den Gemeindekalender
                                 mit allen weiteren Terminen, Infos zu Gruppen uvm.
                             </p>
-                            <!--<div class="bd-toc /*col-2*/" style="/*position: absolute!important;*/">
-                                <div class="/*sticky-top*/" style="top: 3em;">
-                                    Inhalt:
-                                    <hr>
-                                </div>
-                                    <div class="collapse bd-toc-collapse /*sticky-top*/" id="tocContents">
-                                        <nav id="TableOfContents" data-toggle="toc"></nav>
-                                    </div>
-                            </div>-->
+                            <div id="toc-as-collapse">
+                            <p class="d-inline-flex gap-1">
+                                <button class="btn btn-outline-dark" type="button" data-bs-toggle="collapse" data-bs-target="#toc-collapse" aria-expanded="false" aria-controls="toc-collapse">
+                                    Inhaltsverzeichnis <i class="bi bi-chevron-expand"></i>
+                                </button>
+                            </p>
+                            <div class="collapse mb-4" id="toc-collapse" style="line-height: 21px; font-size: 14px; text-decoration-color rgba(33, 37, 41, 0.75); padding: 1.25rem 1.25rem 1.25rem 1rem; background-color: #f8f9fa; border: 1px solid var(--bs-border-color); border-radius: var(--bs-border-radius);">
+                                <ul class="list-unstyled mb-0">
+                                    <li><a href="#installation">Installation</a></li>
+                                    <li><a href="#installation">Anmeldung mit Emailadresse & Passwort (Option 1)</a></li>
+                                    <li><a href="#installation">Alternative Anmeldung mittels Email & Passwort (Option 2)</a></li>
+                                    <li><a href="#installation">Anmeldung mittels QR-Code und einem PC</a></li>
+                                    <li><a href="#installation">Anmeldung funktioniert nicht</a></li>
+                                </ul>
+                            </div>
+                            </div>
                             <h2>Installation</h2>
                             <p>
                                 Die ChurchTools-App kann über den Apple App-Store oder den Google Play-Store installiert werden.
@@ -187,14 +194,14 @@
                             </div>
 
                             <h2>Anmeldung funktioniert nicht</h2>
-                            <p>
+                            <div class="container mb-5">
                                 Hat die Anmeldung nicht geklappt? Wende dich bitte per E-Mail an <a href="mailto:churchtools@efghaigerseelbach.de">churchtools@efghaigerseelbach.de</a> oder sprich einen Mitarbeiter nach einer unserer Veranstaltungen persönlich an.
-                            </p>
+                            </div>
                         </div>
                     </div>
 
-                   <!-- old place -->
-                   <div class="col-3" id="toc-outer">
+                    <!-- old place -->
+                    <div class="col-3" id="toc-outer">
                         <div class="sticky-top" style="top: 3em;">
                             Inhalt:
                             <hr>
