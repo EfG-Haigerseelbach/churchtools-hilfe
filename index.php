@@ -11,7 +11,7 @@
 
             <div class="col d-flex flex-column h-sm-100">
                 <main class="row overflow-auto">
-                    <div class="col-9 pt-4">
+                    <div class="col-12 pt-4">
                         <div class="container">
                             <h1>EfG Haigerseelbach - ChurchTools Hilfe</h1>
                             <p class="lead">
@@ -51,7 +51,7 @@
                             <div class="container ttext-center">
                                 <div class="row row-cols-auto">
 
-                                    <div class="col-4 mb-4">
+                                    <div class="col-12 col-lg-6 col-xl-4 mb-4">
                                         <div class="card" style="width: 18rem;">
                                             <img src="/resources/einladungsemail.jpg" class="card-img-top" alt="...">
                                             <!--<svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" focusable="false">
@@ -61,6 +61,9 @@
                                             <div class="card-body">
                                                 <h5 class="card-title">Erstanmeldung</h5>
                                                 <p class="card-text">Die Erstanmeldung muss einmalig von dir durchgeführt werden.</p>
+                                                <figure>
+                                                <img src="/resources/qr-code erstanmeldung.svg" alt="Logo" height="100" width="100" style="object-fit: contain;">
+                                                </figure>
                                                 <a href="/erstanmeldung.php" class="btn btn-primary">Weitere Hilfe</a>
                                             </div>
                                         </div>
@@ -80,7 +83,7 @@
                                         </div>
                                     </div>-->
 
-                                    <div class="col-4">
+                                    <div class="col-12 col-lg-6 col-xl-4">
                                         <div class="card" style="width: 18rem;">
                                             <img src="/resources/app.jpg" class="card-img-top" style="object-fit: cover; height: 100%;" alt="...">
                                             <div class="card-body">
@@ -91,7 +94,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-4">
+                                    <div class="col-12 col-lg-6 col-xl-4">
                                         <div class="card" style="width: 18rem;">
                                             <img src="/resources/einwilligung%20-%20info-banner.jpg" class="card-img-top" alt="...">
                                             <div class="card-body">

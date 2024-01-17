@@ -70,6 +70,10 @@
               -->
 
                             </p>
+                            <h2 data-toc-skip>QR-Code zu dieser Seite</h2>
+                            <div class="container mb-5">
+                                <img src="/resources/qr-code erstanmeldung.svg" alt="Logo" height="300" width="300" style="object-fit: contain;">
+                            </div>
                         </div>
                     </div>
 
