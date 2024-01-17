@@ -131,12 +131,12 @@
     }
 
 
-    @media (max-width: 1207px) {
+    @media (max-width: 1397px) {
       #toc-outer {
         display: none;
       }
     }
-    @media (min-width: 1208px) {
+    @media (min-width: 1398px) {
       #toc-outer {
         display: block;
       }

@@ -11,7 +11,7 @@
 
             <div class="col d-flex flex-column h-sm-100">
                 <main class="row overflow-auto">
-                    <div class="col-12 col-xl-9 pt-4">
+                    <div class="col-12 col-xxl-9 pt-4">
                         <div class="container">
                             <h1>ChurchTools-App Installation & Einrichtung</h1>
                             <p class="lead">
@@ -34,13 +34,13 @@
                             </p>
                             <div class="container text-center">
                                 <div class="row justify-content-md-center">
-                                    <div class="col col-lg-2">
+                                    <div class="col col-xl-2">
                                         <a class="btn btn-dark" href="https://itunes.apple.com/de/app/id1413263051" role="button">
                                             <i class="bi bi-apple"></i> ChurchTools-App im App-Store
                                         </a>
                                     </div>
 
-                                    <div class="col col-lg-2">
+                                    <div class="col col-xl-2">
                                         <a class="btn btn-dark" href="https://play.google.com/store/apps/details?id=tools.church.app" role="button">
                                             <i class="bi bi-google-play"></i> ChurchTools-App im Play-Store
                                         </a>
