@@ -202,7 +202,8 @@
 
                             <h2>Anmeldung funktioniert nicht</h2>
                             <div class="container mb-5">
-                                Hat die Anmeldung nicht geklappt? Wende dich bitte per E-Mail an <a href="mailto:churchtools@efghaigerseelbach.de">churchtools@efghaigerseelbach.de</a> oder sprich einen Mitarbeiter nach einer unserer Veranstaltungen persönlich an.
+                                Hat die Anmeldung nicht geklappt? Wende dich bitte per E-Mail an <a href="mailto:churchtools@efghaigerseelbach.de?subject=Anmeldung%20in%20der%20App%20funktioniert%20nicht&body=Hallo%2C%0D%0A%0D%0ADie%20Anmeldung%20in%20der%20ChruchTools-App%20funktioniert%20nicht.%20Ich%20habe%20die%20Anmeldung%20mittels%20folgender%20Optionen%20ausprobiert%3A%0D%0A%0D%0A(unzutreffende%20Optionen%20bitte%20entfernen)%0D%0A-%20Anmeldung%20mit%20Emailadresse%20%26%20Passwort%20(Option%201)%0D%0A-%20Alternative%20Anmeldung%20mittels%20Email%20%26%20Passwort%20(Option%202)%0D%0A-%20Anmeldung%20mittels%20QR-Code%20und%20einem%20PC%0D%0A%0D%0AIn%20Schritt%20XXXX%20komme%20ich%20nicht%20weiter%20und%20ben%C3%B6tige%20Hilfe%20bei%20der%20Anmeldung.%0D%0A%0D%0AEmailadresse%3A%20%3Cbitte%20ausf%C3%BCllen%3E%0D%0A%0D%0AViele%20Gr%C3%BCsse%2C%0D%0A%3Cdein%20Name%3E">churchtools@efghaigerseelbach.de</a> 
+                                oder sprich einen Mitarbeiter nach einer unserer Veranstaltungen persönlich an.
                             </div>
 
                             <h2 data-toc-skip>QR-Code zu dieser Seite</h2>
