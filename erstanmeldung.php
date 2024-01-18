@@ -35,7 +35,7 @@
                                 Schön, dass du dich für Infos und Gruppen der Gemeinde interessierst. Um Zugang zu ChurchTools der EfG Haigerseelbach zu erhalten,
                                 musst du eine <a id="erstanmeldung-1"><strong><i class="bi bi-1-circle"></i> Einladung per Email erhalten</strong></a> haben. Du kannst dir einen Benutzer nicht selbstständig anlegen. Bist du dir unsicher, ob du eine Einladung erhalten hast?
                                 Bitte schau in deinem Email-Postfach nach. Absender der Einladungsemail ist <span style="font-family: monospace;">noreply@churchtools.de</span>.
-                                Hast du keine Einladungsemail erhalten, dann wende dich bitte an <a href="mailto:churchtools@efghaigerseelbach.de">churchtools@efghaigerseelbach.de</a>
+                                Hast du keine Einladungsemail erhalten, dann wende dich bitte an <a href="mailto:churchtools@efghaigerseelbach.de?subject=Benutzerkonto%20erstellen&body=Hallo%2C%0D%0A%0D%0ABitte%20erstellt%20mir%20ein%20Benutzerkonto.%20Meine%20Daten%3A%0D%0A%0D%0AVorname%3A%20%3Cbitte%20ausf%C3%BCllen%3E%0D%0ANachname%3A%20%3Cbitte%20ausf%C3%BCllen%3E%0D%0AGeburtsdatum%3A%20%3Cbitte%20ausf%C3%BCllen%3E%0D%0AEmailadresse%3A%20%3Cbitte%20ausf%C3%BCllen%3E%0D%0A%0D%0AViele%20Gr%C3%BCsse%2C%0D%0A%3Cdein%20Name%3E">churchtools@efghaigerseelbach.de</a>
                                 oder sprich einen Mitarbeiter nach einer unserer Veranstaltungen persönlich an.
                             </p>
                             <p>
