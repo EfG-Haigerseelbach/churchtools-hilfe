@@ -37,8 +37,9 @@
                             Das Formular zur Abgabe der Einwilligung ist abhängig von deinen persönlichen Umständen. Bitte schaue, welcher der nachfolgend gezeigten
                             Fälle auf dich zutrifft.
                             </p>
+
                             <h2>Einwilligung (ohne Kinder)</h2>
-                            <p>Um die Einwilligung zu erteilen, musst du die Auswahlbox setzen und kannst dann auf „Einwilligung erklären“ klicken.
+                            <p>Um die Einwilligung zu erteilen, musst du die Auswahlbox setzen <i class="bi bi-1-circle"></i> und kannst dann auf „Einwilligung erklären“ klicken <i class="bi bi-2-circle"></i>.
                                 <br>
                             <figure class="figure">
                                 <img src="/resources/einwilligung - einwilligung ohne kinder.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
@@ -57,6 +58,7 @@
                                 <img src="/resources/einwilligung - einwilligung mit kindern.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
                             </figure>
                             </p>
+
                             <h2>Einwilligung mit Kindern > 16 Jahre</h2>
                             <p class="mb-5">
                                 Wenn deine Kinder ebenfalls in ChurchTools hinterlegt sind, werden diese angezeigt. Personen ab 16 Jahren müssen diese ihre Einwilligung
