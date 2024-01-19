@@ -2,81 +2,85 @@
 <html lang="en">
 <?php include_once 'header.php'; ?>
 
-<body data-bs-spy="scroll" data-bs-target="#toc">
+<body>
 
     <div class="container-fluid overflow-hidden">
         <div class="row vh-100 overflow-auto">
 
             <?php include_once 'nav.php'; ?>
 
-            <div class="col d-flex flex-column h-sm-100">
+            <div id="content" class="col d-flex flex-column h-sm-100">
                 <main class="row overflow-auto">
                     <div class="col-12 col-xxl-9 pt-4">
                         <div class="container">
-                            <h1>Hilfe zur Abgabe der Einwilligung in ChurchTools</h1>
+                            <h1>Passwort vergessen</h1>
                             <p class="lead">
-                                Datenschutz und Transparenz sind uns wichtig. Insofern dürfen wir deine Daten ohne deine Zustimmung für Aufgaben und Tätigkeiten in der Gemeinde nicht nutzen.
-                                Hier findest du Hilfe zur Abgabe dieser Einwilliung.
+                                Dein Passwort für ChurchTools kannst du jederzeit zurücksetzten. Nachfolgend findest du Hilfestellung und mehrere Möglichkeiten
+                                ein neues Passwort zu erstellen.
                             </p>
-                            <h2>Anmeldung</h2>
-                            <p>
-                                <strong><i class="bi bi-1-circle"></i> Melde dich an</strong> mit deiner Email-Adresse oder deinem Benutzernamen und deinem persönlichen Passwort auf
-                                <a href="https://efghaigerseelbach.church.tools">https://efghaigerseelbach.church.tools</a>.
-                                <br>
-                            <figure class="figure">
-                                <img src="/resources/einwilligung - startseite.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
-                            </figure>
-                            <br>
-                            Nach der Anmeldung wird im oberen Bereich der Webseite die Information „Einwilligungserklärung erforderlich“ angezeigt.
-                            <strong><i class="bi bi-2-circle"></i> Klicke auf „Einwilligungserklärung aufrufen“</strong>.
-                            <br>
-                            <figure class="figure">
-                                <img src="/resources/einwilligung - info-banner.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
-                            </figure>
-                            <br>
-                            Das Formular zur Abgabe der Einwilligung ist abhängig von deinen persönlichen Umständen. Bitte schaue, welcher der nachfolgend gezeigten
-                            Fälle auf dich zutrifft.
-                            </p>
-                            <h2>Einwilligung (ohne Kinder)</h2>
-                            <p>Um die Einwilligung zu erteilen, musst du die Auswahlbox setzen und kannst dann auf „Einwilligung erklären“ klicken.
-                                <br>
-                            <figure class="figure">
-                                <img src="/resources/einwilligung - einwilligung ohne kinder.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
-                            </figure>
-                            </p>
-                            <h2>Einwilligung mit Kindern</h2>
-                            <p>
-                                Personen unter 16 Jahren können ihre Einwilligung <strong>nicht</strong> selbst abgeben. Dies muss ein Elternteil stellvertretend für sie
-                                in ChurchTools erledigen. Der nachfolgende Bildausschnitt zeigt ein Beispiel mit zwei Kindern unter 16 Jahren. Um die Einwilligung für die
-                                Kinder zu erteilen, müssen diese ausgewählt werden <i class="bi bi-2-circle"></i>, <i class="bi bi-3-circle"></i> und zusätzlich die Auswahlbox
-                                <i class="bi bi-4-circle"></i> gewählt werden.<br>
-                                Dabei sollte natürlich die Einwilligung für die eigene Person nicht vergessen werden <i class="bi bi-1-circle"></i>. Die Einwilligung muss durch einen
-                                Klick auf „Einwilligung erklären“ <i class="bi bi-5-circle"></i> bestätigt werden.
-                                <br>
-                            <figure class="figure">
-                                <img src="/resources/einwilligung - einwilligung mit kindern.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
-                            </figure>
-                            </p>
-                            <h2>Einwilligung mit Kindern > 16 Jahre</h2>
-                            <p>
-                                Wenn deine Kinder ebenfalls in ChurchTools hinterlegt sind, werden diese angezeigt. Personen ab 16 Jahren müssen diese ihre Einwilligung
-                                in ChurchTools <strong>selbst</strong> abgeben. Wie im nachfolgenden Bildschirmausschnitt gezeigt, kann nur die eigene Einwilligung
-                                abgegeben werden, nicht jedoch für das Kind (hier Max Huber, Alter 37 Jahre) 😉.<br>
-                                In diesem Fall wählst du die Auswahlbox <i class="bi bi-1-circle"></i> für deine eigene Einwilligung und klickst „Einwilligung erklären“ <i class="bi bi-2-circle"></i>.
-                            <figure class="figure">
-                                <img src="/resources/einwilligung - einwilligung mit kindern älter als 16 Jahre.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
-                            </figure>
-                            </p>
+
+                            <h2>Zuruecksetzten ueber die ChurchTools-Webseite</h2>
+                            <div class="container ttext-center">
+                                <div class="row row-cols-auto">
+                                    <div class="col-sm-6">
+                                        <i class="bi bi-1-circle"></i> Öffne dich ChurchTools-Webseite der EfG Haigerseelbach:
+                                        <a href="https://efghaigerseelbach.church.tools">https://efghaigerseelbach.church.tools</a>. 
+                                        <i class="bi bi-2-circle"></i> Klicke auf den Link <span style="font-style: italic;">Passwort vergessen?</span> im unteren
+                                        Bereich.
+                                        <br>
+                                        <figure class="figure">
+                                            <img src="/resources/passwort vergessen - webseite 1.jpg" style="margin: 0.5em; width: 100%; max-width: 400px; height: auto;">
+                                        </figure>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <i class="bi bi-3-circle"></i> Gib deine E-Mailadresse ein, die du in ChurchTools hinterlegt hast. Hast du mehrere E-Mailadressen?
+                                        Dann achte darauf die Korrekte zu verwenden. <i class="bi bi-4-circle"></i> Klicke auf <span style="font-style: italic;">Passwort anfordern</span>.
+                                        <br>
+                                        <figure class="figure">
+                                            <img src="/resources/passwort vergessen - webseite 2.jpg" style="margin: 0.5em; width: 100%; max-width: 400px; height: auto;">
+                                        </figure>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        Du erhältst einen Hinweis, dass eine E-Mail zum Zurücksetzen des Passworts an die von dir angegebene E-Mailadresse verschickt wurde.
+                                        <strong>⚠️ Wichtig!</strong> Hast du keine E-Mail erhalten (sollte nicht länger als 2 Minuten dauern), so hast du entweder nicht die korrekte
+                                        E-Mailadresse angegeben oder du hast noch kein Benutzerkonto (siehe <a href="/erstanmeldung.php">Erstanmeldung</a>).
+                                        <br>
+                                        <figure class="figure">
+                                            <img src="/resources/passwort vergessen - webseite 3.jpg" style="margin: 0.5em; width: 100%; max-width: 400px; height: auto;">
+                                        </figure>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        Öffne die E-Mail in deinem E-Mailpostfach. <strong>⚠️ Wichtig!</strong> Vergewissere dich, dass es sich nicht um eine betrügerische E-Mail handelt: Der Absender ist <span style="font-family: monospace;">noreply@churchtools.de</span>.
+                                        Du wirst mit korrektem Namen angesprochen. Die in der E-Mail enthaltenen Links verweisen auf <span style="font-family: monospace;">https://efghaigerseelbach.church.tools/...</span>.
+                                        <i class="bi bi-5-circle"></i> Klick auf <span style="font-style: italic;">Neues Passwort setzen</span>.
+                                        <br>
+                                        <figure class="figure">
+                                            <img src="/resources/passwort vergessen - webseite 4.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
+                                        </figure>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        Der Browser öffnet sich. <i class="bi bi-6-circle"></i> Gibt ein (neues) Passwort ein. Es muss den genannten Kriterien entsprechen (mindestens 8 Zeichen, mindestens 1 Ziffer, ...). 
+                                        <i class="bi bi-7-circle"></i> Wiederhole das eingegebene Passwort. <i class="bi bi-8-circle"></i> Klicke auf <span style="font-style: italic;">Passwort ändern</span>.
+                                        <br>
+                                        <figure class="figure">
+                                            <img src="/resources/passwort vergessen - webseite 5.jpg" style="margin: 0.5em; width: 100%; max-width: 500px; height: auto;">
+                                        </figure>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        Du erhältst eine Erfolgsmeldung. Anschließend wirst du zur Anmeldseite weitergeleitet. Nun kannst du dich mit deinem neuen Passwort anmelden.
+                                        <br>
+                                        <figure class="figure">
+                                            <img src="/resources/passwort vergessen - webseite 6.jpg" style="margin: 0.5em; width: 100%; max-width: 500px; height: auto;">
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+    
                         </div>
                     </div>
 
-                    <div class="col-3" id="toc-outer">
-                        <div class="sticky-top" style="top: 3em;">
-                            Inhalt:
-                            <hr>
-                            <nav id="toc" data-toggle="toc"></nav>
-                        </div>
-                    </div>
+                    <!-- Table of Content -->
+                    <?php include_once 'toc.php'; ?>
 
                 </main>
             </div>

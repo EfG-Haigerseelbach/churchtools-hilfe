@@ -2,14 +2,14 @@
 <html lang="en">
 <?php include_once 'header.php'; ?>
 
-<body data-bs-spy="scroll" data-bs-target="#toc">
+<body>
 
     <div class="container-fluid overflow-hidden">
         <div class="row vh-100 overflow-auto">
 
             <?php include_once 'nav.php'; ?>
 
-            <div class="col d-flex flex-column h-sm-100">
+            <div id="content" class="col d-flex flex-column h-sm-100">
                 <main class="row overflow-auto">
                     <div class="col-12 col-xxl-9 pt-4">
                         <div class="container">
@@ -74,13 +74,9 @@
                         </div>
                     </div>
 
-                    <div class="col-3" id="toc-outer">
-                        <div class="sticky-top" style="top: 3em;">
-                            Inhalt:
-                            <hr>
-                            <nav id="toc" data-toggle="toc"></nav>
-                        </div>
-                    </div>
+                    
+                    <!-- Table of Content -->
+                    <?php include_once 'toc.php'; ?>
 
                 </main>
             </div>

@@ -2,14 +2,14 @@
 <html lang="en">
 <?php include_once 'header.php'; ?>
 
-<body data-bs-spy="scroll" data-bs-target="#toc">
+<body>
 
     <div class="container-fluid overflow-hidden">
         <div class="row vh-100 overflow-auto">
 
             <?php include_once 'nav.php'; ?>
 
-            <div class="col d-flex flex-column h-sm-100">
+            <div id="content" class="col d-flex flex-column h-sm-100">
                 <main class="row overflow-auto">
                     <div class="col-12 col-xxl-9 pt-4">
                         <div class="container">
@@ -18,6 +18,7 @@
                                 Datenschutz und Transparenz sind uns wichtig. Insofern dürfen wir deine Daten ohne deine Zustimmung für Aufgaben und Tätigkeiten in der Gemeinde nicht nutzen.
                                 Hier findest du Hilfe zur Abgabe dieser Einwilliung.
                             </p>
+
                             <h2>Anmeldung</h2>
                             <p>
                                 <i class="bi bi-1-circle"></i> Melde dich mit deiner Email-Adresse oder deinem Benutzernamen und deinem persönlichen Passwort auf
@@ -45,6 +46,7 @@
                                 <img src="/resources/einwilligung - einwilligung ohne kinder.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
                             </figure>
                             </p>
+
                             <h2>Einwilligung mit Kindern</h2>
                             <p>
                                 Personen unter 16 Jahren können ihre Einwilligung <strong>nicht</strong> selbst abgeben. Dies muss ein Elternteil stellvertretend für sie
@@ -77,13 +79,8 @@
                         </div>
                     </div>
 
-                    <div class="col-3" id="toc-outer">
-                        <div class="sticky-top" style="top: 3em;">
-                            Inhalt:
-                            <hr>
-                            <nav id="toc" data-toggle="toc"></nav>
-                        </div>
-                    </div>
+                    <!-- Table of Content -->
+                    <?php include_once 'toc.php'; ?>
 
                 </main>
             </div>

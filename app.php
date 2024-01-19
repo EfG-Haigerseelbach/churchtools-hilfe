@@ -2,14 +2,14 @@
 <html lang="en">
 <?php include_once 'header.php'; ?>
 
-<body data-bs-spy="scroll" data-bs-target="#toc">
+<body>
 
     <div class="container-fluid overflow-hidden">
         <div class="row vh-100 overflow-auto">
 
             <?php include_once 'nav.php'; ?>
 
-            <div class="col d-flex flex-column h-sm-100">
+            <div id="content" class="col d-flex flex-column h-sm-100">
                 <main class="row overflow-auto">
                     <div class="col-12 col-xxl-9 pt-4">
                         <div class="container">
@@ -35,7 +35,8 @@
                                 </ul>
                             </div>
                             </div>
-                            <h2>Installation <i class="bi bi-share" data-share-title="ChurchTools-App Installation" data-share-url="/app.php#installation"></i></h2>
+
+                            <h2>Installation</h2>
                             <p>
                                 Die ChurchTools-App kann über den Apple App-Store oder den Google Play-Store installiert werden.
                             </p>
@@ -55,9 +56,7 @@
                                 </div>
                             </div>
 
-                            <h2 data-toc-text="Email & Passwort Option 1">Anmeldung mit Emailadresse & Passwort (Option 1)
-                                <i class="bi bi-share" data-share-title="ChurchTools-App Einrichtung mit Email und Passwort" data-share-url="/app.php#anmeldung-mit-emailadresse-passwort-option-1"></i>
-                            </h2>
+                            <h2 data-toc-text="Email & Passwort Option 1">Anmeldung mit Emailadresse & Passwort (Option 1)</h2>
                             <p class="lead">
                                 In 7 Schritten kannst du die Anmeldung in der ChurchTools-App mittels Emailadresse und Passwort durchführen. Alles was du benötigst ist dein Smartphone.
                             </p>
@@ -96,9 +95,7 @@
                                 </div>
                             </div>
 
-                            <h2 data-toc-text="Email & Passwort Option 2">Alternative Anmeldung mittels Email & Passwort (Option 2)
-                                <i class="bi bi-share" data-share-title="ChurchTools-App Einrichtung mit Email und Passwort (Option 2)" data-share-url="/app.php#alternative-anmeldung-mittels-email-passwort-option-2"></i>
-                            </h2>
+                            <h2 data-toc-text="Email & Passwort Option 2">Alternative Anmeldung mittels Email & Passwort (Option 2)</h2>
                             <p class="lead">
                                 In 8 Schritten kannst du die Anmeldung mit einem Browser auf deinem Smartphone durchführen. Du benötigst also nur dein Smartphone. Diese Option unterscheidet sich
                                 nur unwesentlich von Option 1.
@@ -141,8 +138,7 @@
                                 </div>
                             </div>
 
-                            <h2 data-toc-text="QR-Code + PC">Anmeldung mittels QR-Code und einem PC
-                                <i class="bi bi-share" data-share-title="ChurchTools-App Einrichtung mit QR-Code und PC" data-share-url="/app.php#anmeldung-mittels-qr-code-und-einem-pc"></i>
+                            <h2 data-toc-text="QR-Code + PC">Anmeldung mittels QR-Code und einem PC</i>
                             </h2>
                             <p class="lead">
                                 In 8 Schritten kannst du die Anmeldung in der ChurchTools-App mittels QR-Code und einem PC durchführen. Du benötigst also dein Smartphone <strong>und</strong> einen PC.
@@ -213,14 +209,9 @@
                         </div>
                     </div>
 
-                    <!-- old place -->
-                    <div class="col-3" id="toc-outer">
-                        <div class="sticky-top" style="top: 3em;">
-                            Inhalt:
-                            <hr>
-                            <nav id="toc" data-toggle="toc"></nav>
-                        </div>
-                    </div>
+                    <!-- Table of Content -->
+                    <?php include_once 'toc.php'; ?>
+                    
                 </main>
             </div>
         </div>

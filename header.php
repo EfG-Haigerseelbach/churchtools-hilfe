@@ -51,12 +51,13 @@
   <!--<link rel="stylesheet" href="/resources/docs.css">-->
 
   <script>
+      function shareClickHandler(e) {
+        var title = $(this).data('share-title');
+        var url = window.location.origin+$(this).data('share-url');
+        share(title, url);
+      }
       $(document).ready(function() {
-        $('.bi-share').click(function(e) {
-          var title = $(this).data('share-title');
-          var url = window.location.origin+$(this).data('share-url');
-          share(title, url);
-        })
+        $('.bi-share').click(shareClickHandler);
       });
       function share(title, url) {
         let shareData = {
