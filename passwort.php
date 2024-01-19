@@ -13,7 +13,7 @@
                 <main class="row overflow-auto">
                     <div class="col-12 col-xxl-9 pt-4">
                         <div class="container">
-                            <h1>Passwort vergessen</h1>
+                            <h1 data-toc-skip>Passwort vergessen</h1>
                             <p class="lead">
                                 Dein Passwort für ChurchTools kannst du jederzeit zurücksetzten. Nachfolgend findest du Hilfestellung und mehrere Möglichkeiten
                                 ein neues Passwort zu erstellen.

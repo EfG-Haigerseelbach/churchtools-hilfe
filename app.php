@@ -86,7 +86,7 @@
                                     <div class="col-sm-6">
                                         <i class="bi bi-5-circle"></i> Gib deine E-Mailadresse ein, die du in ChurchTools hinterlegt hast. Hast du mehrere E-Mailadressen?
                                         Dann achte darauf die Korrekte zu verwenden. <i class="bi bi-6-circle"></i> Gib dein Passwort ein. Hast du dein Passwort vergessen,
-                                        dann musst du dieses zunächst <a href="#">zurücksetzten</a>. <i class="bi bi-7-circle"></i> Klicke auf Einloggen. Die Startseite sollte nun angezeigt werden.<br>
+                                        dann musst du dieses zunächst <a href="/passwort.php">zurücksetzten</a>. <i class="bi bi-7-circle"></i> Klicke auf Einloggen. Die Startseite sollte nun angezeigt werden.<br>
                                         <br>
                                         <figure class="figure">
                                             <img src="/resources/app - anmeldung - name und pwd 4_.jpg" style="margin: 0.5em; width: 100%; max-width: 300px; height: auto;">
@@ -106,7 +106,7 @@
                                         <i class="bi bi-1-circle"></i> Öffne <strong>an deinem Smartphone</strong> mit einem Browser deiner Wahl die Webseite <a href="https://efghaigerseelbach.church.tools">https://efghaigerseelbach.church.tools</a>.
                                         <i class="bi bi-2-circle"></i> Gib deine E-Mailadresse ein, die du in ChurchTools hinterlegt hast. Hast du mehrere E-Mailadressen?
                                         Dann achte darauf die Korrekte zu verwenden. <i class="bi bi-3-circle"></i> Gib dein Passwort ein. Hast du dein Passwort vergessen,
-                                        dann musst du dieses zunächst <a href="#">zurücksetzten</a>. <i class="bi bi-4-circle"></i> Klick dann auf <span style="font-style: italic;">Login</span>.
+                                        dann musst du dieses zunächst <a href="/passwort.php">zurücksetzten</a>. <i class="bi bi-4-circle"></i> Klick dann auf <span style="font-style: italic;">Login</span>.
                                         <br>
                                         <figure class="figure">
                                             <img src="/resources/app - anmeldung - name und pwd option 2 - 1_.jpg" style="margin: 0.5em; width: 100%; max-width: 300px; height: auto;">
@@ -149,7 +149,7 @@
                                         <i class="bi bi-1-circle"></i> <strong>An einem PC</strong> meldest du dich an mit deiner Email-Adresse oder deinem Benutzernamen und deinem persönlichen Passwort auf
                                         <a href="https://efghaigerseelbach.church.tools">https://efghaigerseelbach.church.tools</a>. Gib deine E-Mailadresse ein, die du in ChurchTools hinterlegt hast.
                                         Hast du mehrere E-Mailadressen? Dann achte darauf die Korrekte zu verwenden. Gib dein Passwort ein. Hast du dein Passwort vergessen,
-                                        dann musst du dieses zunächst <a href="#">zurücksetzten</a>.
+                                        dann musst du dieses zunächst <a href="/passwort.php">zurücksetzten</a>.
                                         <br>
                                         <figure class="figure">
                                             <img src="/resources/einwilligung - startseite.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
