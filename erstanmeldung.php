@@ -44,14 +44,14 @@
                                 werden muss. Ist die Gültigkeit abgelaufen, musst du erneut eingeladen werden.
                                 <br>
                             <figure class="figure">
-                                <img src="/resources/einladungsemail.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
+                                <img src="/resources/erstanmeldung 1_.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
                             </figure>
 
                             <br>
                             Du wirst zu ChurchTools weitergeleitet und es wird der Dialog Passwort einrichten angezeigt. <a id="erstanmeldung-3"><strong><i class="bi bi-3-circle"></i> Trage dein persönliches Passwort ein</strong></a>. Es muss den genannten
-                            Kriterien entsprechen (mindestens 8 Zeichen, mindestens 1 Ziffer, ...). <a id="erstanmeldung-4"><strong><i class="bi bi-4-circle"></i> Klicke dann auf Passwort ändern</strong></a>. Speichere dein Passwort an einem sicheren Ort.
+                            Kriterien entsprechen (mindestens 8 Zeichen, mindestens 1 Ziffer, ...). Wiederhole die Passworteingabe im darunterliegenden Feld. <a id="erstanmeldung-4"><strong><i class="bi bi-4-circle"></i> Klicke dann auf Passwort ändern</strong></a>. Speichere dein Passwort an einem sicheren Ort.
                             <br>
-                            <img src="/resources/passwort_ändern_dialog.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
+                            <img src="/resources/erstanmeldung 2_.jpg" style="margin: 0.5em; width: 100%; max-width: 600px; height: auto;">
                             </p>
                             <h2>Einwilligung</h2>
                             <p>
